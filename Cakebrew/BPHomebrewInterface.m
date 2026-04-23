@@ -1,6 +1,6 @@
 //
 //	BrewInterface.m
-//	Cakebrew – The Homebrew GUI App for OS X
+//	Cakebrew – The Homebrew GUI App for macOS
 //
 //	Created by Vincent Saluzzo on 06/12/11.
 //	Copyright (c) 2014 Bruno Philipe. All rights reserved.
@@ -25,7 +25,7 @@
 #define kDEBUG_WARNING @"\
 User Shell: %@\n\
 Command: %@\n\
-OS X Version: %@\n\n\
+macOS Version: %@\n\n\
 The outputs are going to be different if run from Xcode!!\n\
 Installing and upgrading formulas is not advised in DEBUG mode!\n\n"
 
